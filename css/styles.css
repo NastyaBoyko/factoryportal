@@ -13,14 +13,14 @@
   margin: 50px auto;
 }
 
-.track-wrapper {
+.truck-wrapper {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 60%;
 }
 
-.track-wrapper #track {
+.truck-wrapper #truck {
   width: 300px;
   height: 600px;
   background: white;
@@ -35,7 +35,7 @@
   align-items: flex-start;
 }
 
-.palette {
+.pallet {
   margin: 5px;
   background: white;
   border: 1px solid black;
